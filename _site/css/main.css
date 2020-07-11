@@ -180,7 +180,7 @@ p {
   content: "﹀";
   font-size: 36px;
   left: 50%;
-  position: absFOOTER Solute;
+  position: absolute;
   transform: translate(-50%, 0);
 }
 .half-hero {
