@@ -11,6 +11,10 @@ time, mark, audio, video {
   font: inherit;
   vertical-align: base-line;
 }
+/* FONT EXPERIMENT */
+#stroke{
+  -webkit-text-stroke: 2px black;
+}
 /* GLOBAL STYLES */
 html {
   box-shadow: 0 0 0 30px #000 inset;
