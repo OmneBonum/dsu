@@ -6,21 +6,21 @@ author: OmneBonum
 postFooter: omnebonumest@gmail.com
 ---
 
-Human nature is a lot of things.  It can lead us to the heights of achievement.  It can lead us to the heights of stupidity.  
+Human nature is a lot of things.  It can lead us to the heights of enlightenment.  It can lead us to the depths of stupidity.  
 
-In this case, what we find, is that human nature does not prompt many of us to exclaim, "Oh, boy--give me another hierarchical system to live under--that sounds like fun!"
+In this case, in creating a direct legislature to make laws, what we find, is that human nature does not prompt many of us to exclaim, "Oh, boy--give me another hierarchical system to live under--that sounds like fun!"
 
 In fact, if you've taken a look at [link], you may find a little voice calling out from deep within your soul, "No, Let me go! I want to be free!" The whole thing may seem oppressive.
 
-There is a good reason for this.  Human society is always, to some extent, oppressive. So, you are correct.  Bonus points to you!
+There is a good reason for this.  Human society is always, to some extent, oppressive. So, you are correct.
 
-And so, we would like to quickly point out, the DSUp direction-legislation project will actually make society LESS oppressive, not more. It will actually allow individuals more freedom, not less.
+And so, we would like to quickly point out, the DSUp direct-legislation project will actually make society LESS oppressive, not more. That's right--it will actually allow individuals more freedom, not less.
 
-The reason for this is clear enough when you think about it. Think about oppression.  It is certainly the case that in a system where one group of people gets to be in charge, and they get to do whatever they want to some other group of people--that's oppressive!  That's monarchy, where the aristocracy lords it over the common people, where they live by a different set of laws, where the working class is dehumanized and lives in a constant state of humiliation and subjugation. (We sometimes forget how bad things used to be.  Re-read A Tale of Two Cities when you get a chance. Things used to be really, really bad.)
+The reason for this is clear enough. Think about oppression.  It is certainly the case that in a system where one group of people gets to be in charge, and they get to do whatever they want to some other group of people--that's oppressive!  That's feudalism, where the aristocracy lords it over the common people, where they live by a different set of laws, where the working class is dehumanized and lives in a constant state of humiliation and subjugation. (We sometimes forget how bad things used to be.  Re-read A Tale of Two Cities when you get a chance. Things used to be really, really bad.)
 
 The whole point of democracy in general, and American democracy in particular, is to vanquish that kind of arbitrary oppression.  The kind that says "We matter and you don't," and "We make the rules and you follow them without complaint...or else!"  
 
-[This is what is meant, by the way, by the phrase "All men are created equal." An odd thing to say when founding a country that already holds more than half a million people in permanent slavery, women are treated as property, etc. That's because it really means this: "Regarding all of us men who came over from Britain, none of us were born into royalty.  We were all born the same." (See Created Equal).  Whoever weak and flawed this logic may seem to us now, it was a vast improvement over what had preceded. And over time, reapplication of that basic principle has yielded much better results.
+
 
 And, in fact, this direct legislation project is yet another reapplication of that same core principle that has led the United States to abolish slavery and Jim Crow, enfranchise women, and listen to 'the better angels of our nature'.  ]
 

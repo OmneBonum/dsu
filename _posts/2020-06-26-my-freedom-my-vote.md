@@ -26,9 +26,9 @@ Before we go any further down this train of thought, lets stop and remember: our
 Since this inherent right is governed by the necessity of rules, we can think of those rules always, in some way, limiting what we call 'freedom.' The term freedom can mean slightly different things to different people, so it is convenient to sometimes use the word 'agency'. Here, agency refers to the ability to act--think of how we might call someone a 'free agent,' even when we are not talking about sports. So, since rules limit agency we can say something very certain about the nature of those rules--every agent must have an equal say in determining those rules.
 
 By the way, we are supposing, here, that our 'group' is a democracy, with universal suffrage, that protects freedom of speech, and a range of essential human and civil rights. There is no other form of government worth even considering.
-
+8321`123` qa`1`
 Our final observation is that, unlike all other animals, we engage in a very complex form of communication called language.  Where language fails, war begins.  This is not a problem if you are a bear.  A bear may maul another bear that wanders into its territory, and no one makes any moral judgements about it.  It doesn't have the option of engaging in reasoned discourse. Since the very definition of a civil society is one that is not openly at war with itself, in the literal sense, we should look at how disputes can be settled in the absence of violent conflict. We don't just have the option of reasoned discourse.  It is our only choice under the aforementioned conditions.
 
 It is easy see that, if we all 'own our agency,' and must, of necessity submit to rules governing the scope and extent of that agency, and if we live in a peaceful, democratic society where those rules must be determined by reasoned discourse, then we must all, by right, have equal access to determining what those rules are, and an equal vote when it comes to enacting those rules into law.  
 
-And that's all we have to say about that. 
+And that's all we have to say about that.

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Imagination vs. Reality
+title: Direct Legislation&#58; Imagination vs. Reality
 postHero: /images/running_man.png
 author: OmneBonum
 postFooter: omnebonumest@gmail.com
