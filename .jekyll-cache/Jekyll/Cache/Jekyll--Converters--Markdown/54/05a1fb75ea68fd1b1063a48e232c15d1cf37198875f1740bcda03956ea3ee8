@@ -1,74 +1,4 @@
-<!DOCTYPE html>
-<html>
-  <head>
-  <title>Democracy Straight-Up! Yes.</title>
-  <meta charset="utf-8">    <link rel="stylesheet" href="/css/reset.css">
-    </head>
-  <link rel="stylesheet" href="/css/main.css">
-</head>
-
-  <body>
-  <header class="header">
-  <nav>
-    <ul class="header-nav">
-      
-  <li><a href="/">Home</a></li>
-  <li><a href="/blog">Blog</a></li>
-  <li><a href="/2020/07/16/just-do-it.html">Newest Post</a></li>
-
-    </ul>
-  </nav>
-  <a href="/" class="header-logo">
-  <img src="/images/logo.png" alt="DSU">
-</a>
-</header>
-
-    <div class="content-container">
-      <div class="post">
-  <div class="half-hero" style="background-image:url(/images/)"></div>
-
-  <article class="page">
-    <header class="post-header">
-      <h1>Style Guidelines for Text on the Site</h1>
-      <div class="post-byline">
-        <img src="">
-        by: OmneBonum
-        <!--<span> - February 02, 2020</span>-->
-      </div>
-    </header>
-    <aside class="post-aside">
-      <h4>Recent Posts</h4>
-      <ul class="blog-title-list">
-        
-          <li>
-            <a href="/2020/07/16/just-do-it.html">Just Do It!</a>
-            <!--<span>Posted: July 16, 2020</span>-->
-          </li>
-        
-          <li>
-            <a href="/2020/07/15/Not-e-Democracy.html">DSUp vs. the Others</a>
-            <!--<span>Posted: July 15, 2020</span>-->
-          </li>
-        
-          <li>
-            <a href="/2020/07/14/What-the-website-will-look-like.html">What the Website will Look Like</a>
-            <!--<span>Posted: July 14, 2020</span>-->
-          </li>
-        
-          <li>
-            <a href="/2020/07/13/Face-to-face.html">Face-to-Face</a>
-            <!--<span>Posted: July 13, 2020</span>-->
-          </li>
-        
-          <li>
-            <a href="/2020/07/12/why-go-big.html">Why Go Big?</a>
-            <!--<span>Posted: July 12, 2020</span>-->
-          </li>
-        
-      </ul>
-    </aside>
-    <div class="post-content">
-      <p>Here, we are not talking about formatting and fonts.  We are talking about the authorial voice of the site.</p>
+I"7<p>Here, we are not talking about formatting and fonts.  We are talking about the authorial voice of the site.</p>
 
 <h3 id="using-the-first-person-plural">Using the first person plural</h3>
 
@@ -96,7 +26,7 @@
 
 <p>At the same time, it needs to be clear that the site is for, by, and about Americans, and not the product of a Russian troll farm! We need to think about how to get that across from the outset.  In my experience, grammatically correct text and properly used idioms go a long way in that direction.</p>
 
-<h3 id="make-text-clear-and-correct">Make text clear and correct</h3>
+<h2 id="make-text-clear-and-correct">Make text clear and correct</h2>
 
 <p>My prose style is heavily influenced by <ins>The Elements of Style</ins> by Strunk and White. I am a stickler about setting off appositives with m-dashes (double hyphens,) rather than commas–at least where they add to the clarity and readability of a sentence (see what I did there?) A multi-word adjective should be hyphenated.  “Omit needless words” is a solid principle, but one we won’t always strictly adhere to for a few reasons. For instance, limitations on space for text are lessened in the digital age.  But also, more people are reading more text each day than ever before in human history, so demanding that the reader doggedly trace back every ‘this’ and ‘that’ to its source is becoming more and more unreasonable.</p>
 
@@ -109,42 +39,4 @@
 <h3 id="limiting-allusions">Limiting allusions</h3>
 
 <p>Don’t use, say, a literary reference where plain language will do the trick.  For instance, I want to write, “Depending on the influence they wield, some people’s vote is, in essence, larger than others.”  But this reminds me of <ins>Animal Farm</ins> by George Orwell, namely the quote, “All animals are equal…but some animals are more equal than others.” Should I insert this in order to enrich my prose?  No, I should not.</p>
-
-    </div>
-    <footer class="post-footer">
-      omnebonumest@gmail.com
-    </footer>
-  </article>
-</div>
-
-    </div>
-    <footer class="footer">
-  <a class="footer-logo" href="/">
-    <img src="/images/logo.png" alt="Learn Enough"/>
-    </a>
-    <nav>
-      <ul class="footer-nav nav-links">
-        
-  <li><a href="/">Home</a></li>
-  <li><a href="/blog">Blog</a></li>
-  <li><a href="/2020/07/16/just-do-it.html">Newest Post</a></li>
-
-      </ul>
-      <!--<ul class="social-list">
-        <li>
-  <a href="https://example.com/" class="social-link">Fb</a>
-</li>
-<li>
-  <a href="https://example.com/" class="social-link">Tw</a>
-</li>
-<li>
-  <a href="https://example.com/" class="social-link">Gh</a>
-</li>
-
-      </ul>-->
-      </nav>
-    <h3>Democracy <span>Straight-Up!</span></h3>
-    </footer>
-
-  </body>
-</html>
+:ET
