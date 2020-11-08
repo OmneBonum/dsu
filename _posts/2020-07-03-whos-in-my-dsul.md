@@ -5,27 +5,55 @@ postHero: /images/running_man.png
 author: OmneBonum
 postFooter: omnebonumest@gmail.com
 ---
-The United States is divided into 435 congressional districts, each of which contained, as of the 2010 census, about 710,000 constituent.
 
-A constituent is any person living in a district--whether or not they have the right to vote.  The largest block of non-voting constituents is that jobless, money-sucking population of trouble-makers we call children.  Well, legally speaking, we call them minors.  Reliably, the proportion of children in any given area hovers around one third.  So, a rough estimate of the number of adults in your district, using a nice round number that will make the math easier later on, is 450,000.  
+The short answer to this question is very simple: voters who are registered to vote in your congressional district can vote in your Democracy Straight-Up Legislature (DSUL).
 
-This constitutes a maximum for the number of people that could possibly join your DSUL. Actual participation is certain to be lower. But we will use this number to strengthen our argument that the numbers involved are perfectly manageable, even at the extreme.
+That is:
 
-There are other considerations.  In some states, convicted felons cannot vote. Not all adults are citizens--and, yes, one must be a citizen to vote in an election.  
+Step One: Register to Vote (if you are not already)
 
-So, are you worried that people who are not citizens will join your DSUL?  What about people who are citizens, but don't really live in your district?  What about people who try to be sneaky and participate in more than one DSUL!  Yikes!
+Step Two: Go to the Democracy Straight-Up website (or have a more tech savvy person do it for you) and Take Your Seat in your district's DSUL.
 
-As far as we at the DSUp Project are concerned, we already have a means to determine who is eligible to vote.  We are happy to say that you can't join the DSUL unless you have a voter registration card.  This card will specify that you are registered to vote in the given congressional district where your DSUL abides.  
+So, there is no need to worry that people who are not citizens will join your DSUL. Also, voters that don't live in your district will not be members of your DSUL.  Also, also, voters will not be able to participate in or vote in more than one DSUL.
 
-As it stands, only about two-thirds of legal citizens who are eligible to vote are registered to vote.  Getting registered needn't be a huge hurdle, but it is trickier for some people than it is for others.  So, when someone wants to join the DSUL, but is not yet registered, we're confident their fellow members will help them out if need be.  
+It's a simple as that.
 
-We like to be careful when it comes to predictions about the future, but we do hope that this direct legislation project will have the effect of getting more people registered and getting more people to the polls for regular elections.  As we said, two-thirds of eligible voters aren't registered to vote.  But also, two-thirds of registered voters don't vote.  Fun with fractions, two-thirds of two-thirds is a bit less than 50%.  This number is low compared to most other developed, democratic countries.  
+Or is it?
 
-But let us remember what a DSUL really is: it is just method for a legally elected congressional representative to determine how they are going to vote on a bill being considered by the House of Representatives.  Because your rep can cast their vote based on any considerations they please, it is perfectly fitting and legal if they base their vote on the majority sentiment of their constituents as expressed through the DSUL in that district.  
+How do you prove that you are a registered voter?
 
-But the DSUL itself is not a legally constrained entity.  We recommend that each DSUL start off by adopting the rule that every member must be registered to vote before they join.  But we are not in charge of enforcing that rule.
+Every state provides voters with some sort of Voter Registration card.  Each card has some sort of voter id number.  Each state also has a publicly available database where you can double check that at voter with a certain name, living at a certain address is, in fact, a registered voter with a specific id number.
 
-That's a good thing.  It would be an administrative nightmare.  Furthermore, its not our place to decide who is and isn't in your DSUL.  Finally, there's a much better way to do it.
+This is where the inevitable, unavoidable tiered system of representation comes in really handy.  If you don't want someone who is not a registered voter in your district to join your DSUL, don't let them join your Top Group.  Whether or not they have a voter registration card on them, you can sit them down, fill out a query on your state's voter registration website, and find out if they are in the database.
+
+But what if an entire Top Group is composed of cheating cheaters, none of who are really registered to vote in your district, but lying liars that they are, claim to be registered in your district.  Well, that is where the Upper Tier comes in handy: your Top Group delegate will be a member of Upper Tier Group, along with 10 or 15 other Top Group delegates.  Make sure your delegate double checks that all the members of all the other groups represented by herhis fellow delegates are legit.  
+
+Now, an Upper Group reps about 50 to 150 voters.  What if an entire Upper Group is a bunch of lying cheaters?  Well, they will need to put forward a delegate to the Mid-level, and they would need to find a group of 15 to 25 delegates, representing thousands of people, all of whom are in on the conspiracy to infiltrate your district legislature...
+
+And there are still two more levels of structure in your tiered system of delegation where the legitimacy of the qualifications of the voters can be scrutinized. In fact, the only way for invalid voters to gain a vote in your DSUL would be if your local Registrar of Voters were fraudulently registering voters. Never say never, but that kind of fraud is insanely rare.  It is much more likely that you will encounter voters who should, by all rights, qualify to be legally registered but, for some reason or another, are not showing up in your state's database of registered voters.  
+
+Such cases will be uncommon, but every voter counts, so you will need a method for potential voters to appeal the verdict of your state's on-line database. The DSUp will help you with that, but ultimately, it will be up to you to form a committee in your DSUL to help you deal with such issues.  
+
+Which is as it should be. You wouldn't want us (a bunch of people who are very likely from outside your district and even from outside your state) telling you who is and isn't in your direct legislature.
+
+On a more technical note, while we provide a voter ID field for each voter who Takes a Seat in their D-Leg, we won't be the ones using that field to double-check the legitimacy of that 'sign-up'.  The voters in that DSUL will be the ones doing the checking.  
+
+What if you are eligible to vote, but not currently registered to vote?
+
+About 20% of legal citizens who are eligible to vote are not registered to vote.  Getting registered needn't be a huge hurdle, but it is trickier for some people than it is for others. So, when someone wants to join the DSUL, but is not yet registered, we're confident their fellow members will help them out in that regard. This is yet another benefit of using the small group as the organizing unit of our DSUL.   
+
+Also, though we like to be careful when it comes to predictions, we do hope that this direct legislation project will have the effect of getting more people interested in voting, and therefore registered to vote.  
+
+It is worth noting that this number, 20%, is high compared to most other developed, democratic countries.  
+
+In addition, we estimate that bout 18% of registered voters don't actually vote, even in a presidential election (which has, reliably, the highest turnout). Again, this is not a great number when compared to other democracies, and we hope one of the side effects of this project is that that number will go down.
+
+But let us remember what a DSUL really is: it is a means to an end.  And the endpoint is instructing your legally-elected House rep how to vote.  Your DSUL gets to tell your rep how to vote because shehe can cast their vote based on any considerations they please, and, in this case, as someone committed to voting with the majority of your DSUL, that is the basis your rep will use.  
+
+However, the DSUL itself is not a legally constrained entity.  
+
+What?
+
 
 We keep on touting the virtues of using the small group as the fundamental unit of Democracy Straight-Up. Here is where it really earns its place.  Ensuring that anyone who joins the DSUL has the right to do so under the rules laid down by the DSUL itself falls first and foremost to the other members of the small group of six to twelve.
 
