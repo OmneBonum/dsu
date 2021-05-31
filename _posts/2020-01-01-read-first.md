@@ -6,13 +6,13 @@ author: OmneBonum
 postFooter: omnebonumest@gmail.com
 ---
 
-The Democracy Straight-Up! Project seeks to establish a system of direct legislatures in all 435 federal congressional districts in the United States--hopefully before the 2022 mid-term elections.
+The Democracy Straight-Up! Project seeks to establish a system of direct legislatures in all 435 federal congressional districts in the United States.
 
 What you are reading here is a very, very rough draft in progress.  Send feedback to omnebonumest@gmail.com.  
 
 Right now I am focussed on the explanation and description. This makes sense to the extent that ironing out the details of the project will effect the form it takes, and, inevitably, the shape of the site.  
 
-But really, the site should be up-and-running as soon as possible, even while the details of the project are being sorted out. That means creating a site where American voters can go and sign up for the district legislature in the district where they live and start voting immediately.  Of course, this vote won't be fully effective until they have a representative in congress that has been put on the ballot and elected into office by their direct legislature. So the site will need to take people through that process--which is a one-time thing--of going from just a few people to the 100,000 or more that are likely to be needed to get their direct legislature to the point where it is 'live.'
+But really, the site should be up-and-running as soon as possible, even while the details of the project are being sorted out. That means creating a site where American voters can go and sign up for the district legislature in the district where they live and start voting immediately.  Of course, this vote won't be fully effective until they have a representative in congress that has been put on the ballot and elected into office by their direct legislature. So the site will need to take people through that process--which is a one-time thing--of going from just a few people to the 150,000 or more that are likely to be needed to get their direct legislature to the point where it is 'live.'
 
 To be clear, 'live' means the member of congress for a given district represents the direct legislature for that district and votes with the majority on an issue-by-issue basis.
 

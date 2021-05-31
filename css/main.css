@@ -48,6 +48,7 @@ h2 ~ p {
   text-align: center;
 }
 h3 {
+  margin-left: 10%;
   font-size: 1.2em;
   font-style: bold;
   text-decoration: underline;
@@ -73,6 +74,18 @@ a {
 p {
   line-height: 1.5;
   margin: 0.75em 0;
+}
+.px20bottom{
+  margin-bottom:20px;
+}
+.pxbottom{
+  margin-bottom:40px;
+}
+.px10top{
+  margin-top: 10px;
+}
+.px20top{
+  margin-top: 20px;
 }
 /* HEADER STYLES */
 .header {
