@@ -14,7 +14,7 @@ Of course, we wouldn't be embarking on this project if we didn't think it was go
 
 Wherever a DSUp legislature is set up, both of these problems are solved.  
 
-This is because of the system of tiered delegation.  Each group appoints a delegate from among their number to represent them in all matters before the DSUL. One beauty of this is that you are never more than a few steps away from your member of congress, and information can flow back and forth between you. But another beauty is that no one 'runs for office' in the traditional sense. The tiers of representation create a kind of a sieve, if you will. The best and the brightest, at each tier of delegation, are shaken out and fall into the next one, where, once again, the best of the best make their way to the next tier. Of course, this process is not one of 'shaking.' That's just a metaphor.  Each delegate is elected by their peers to the next tier of the DSUL.  And 'the best of the best' is subjective.  One tranche of the DSUL might elevate an individual that you personally think is an idiot.  That's just the way it is. That's human nature.  The DSUp project is not trying to [change human nature]({% post_url 2020-06-30-changing-human-nature %})
+This is because of the system of tiered delegation.  Each group appoints a delegate from among their number to represent them in all matters before the DSUL. One beauty of this is that you are never more than a few steps away from your member of congress, and information can flow back and forth between you. But another beauty is that no one 'runs for office' in the traditional sense. The tiers of representation create a kind of a sieve, if you will. The best and the brightest, at each tier of delegation, are shaken out and fall into the next one, where, once again, the best of the best make their way to the next tier. Each delegate is elected by their peers to the next tier of the DSUL.  And 'the best of the best' is subjective.  One tranche of your D-Leg might elevate an individual that you personally think is an idiot.  That's just the way it is. That's human nature.  The DSUp project is not trying to [change human nature]({% post_url 2020-06-30-changing-human-nature %})
 
 Let's dig down into what this 'sieve' effect will do.  It will never be the case that a certain political party says to the constituency at large, through some sort of mass media campaign, "This is the one!  If you are a member of our party, vote for this one!" If a small group of people with a lot of money get together and say, "We want this person!" they have a difficult task ahead of them that doesn't involve how they spend their money.  Whoever they 'like' has to join the DSUL and then make their way through the process of delegation to the tier closest to the representative, and then be nominated by that group to become the next candidate on the ballot in the regular election to office.
 
@@ -86,7 +86,7 @@ Of course, there are no guarantees and no one can predict what the constituents 
 
 It is difficult to say exactly how
 
-### Electing Presidents to the Executive so they can Legislature
+### Electing Presidents to the Executive so they can Legislate
 
 One of the very silly things Americans do is to elect presidents based on their promise to pass certain types of legislation.  
 
@@ -94,25 +94,25 @@ Now, there are three branches of government--The Executive, The Judicial, and Th
 
 The president's job is executive--she/he **executes** the will of the people as expressed through the decisions made by the legislature.  
 
-To be sure, it is a big important job.  And it is in the nature of things that no legislature can provide a framework for the executive branch that is so detailed and specific, the president has not discretion when deciding how to act.  It is always inevitable that many decisions must be left to the executive, and that the president must have some scope for deciding what to do when new problems arise and conditions change.  
+To be sure, it is a big important job.  And it is in the nature of things that no legislature can provide a framework for the executive branch that is so detailed and specific, the president has no discretion when deciding how to act.  It is always inevitable that many decisions must be left to the executive, and that the president must have some scope for deciding what to do when new problems arise and conditions change.  
 
 But there's one thing a president can never do, and that is, they can't pass a new law!
 
-Because we are so frustrated an maddened by our own legislature, we Americans have taken to seeing the president as the head of a political party, and tasked her/him with trying to force that party's platform on the congress whether they like it or not.  
+Because we are so frustrated and maddened by our own legislature, we Americans have taken to seeing the president as the head of a political party, and tasked her/him with trying to force that party's platform on the congress whether they like it or not.  
 
 To add insult to injury, we then routinely elect the opposing party to hold the majority of congress so that the president can't actually get her/his legislative agenda passed anyway!  
 
-This perverse state of affairs ends when we make the legislative branch do what it is supposed to do--namely, *legislate*--and let the president do what she/he is supposed to do, namely *execute the will of the people.*  This is not to say that no president will ever again have a legislative agenda, or try to muster reps in congress to deploy that agenda.  But it is to say we can stop electing presidents primarily to overcompensate for a legislature that isn't articulating the will of the people.  
+This perverse state of affairs ends when we make the legislative branch do what it is supposed to do--namely, *legislate*--and let the president do what she/he is supposed to do, namely *execute the will of the people.*  This is not to say that no president will ever again have a legislative agenda, or try to muster members of congress to deploy that agenda.  But it is to say we can stop electing presidents primarily to overcompensate for a legislature that isn't articulating the will of the people.  
 
 ### Whiner Babies
 
-The current system of representation is dysfunctional enough that people feel it is perfectly reasonable to complain bitterly that all politicians are a bunch of idiots, and at the same do nothing to participate in a solution to that problem.  Because there is no point.  Because there's nothing you can do.  Because the system is broken beyond repair.
+The current system of representation is dysfunctional enough that people feel it is perfectly reasonable to complain bitterly that all politicians are a bunch of idiots. At the same time such these complainers do nothing to participate in a solution to that problem.  Because there is no point.  Because there's nothing you can do.  Because the system is broken beyond repair.
 
 And unfortunately, they aren't entirely wrong when they say this.
 
 After a system of direct legislation is in place, such critiques will have nowhere to land.  You are free to not join your district's DSUL, but then you have lost the right to complain.  If you do join your DSUL, and you don't like the decisions that are being made at the national level, you can only complain that your fellow citizens are idiots, and that they make terrible decisions. The people are in charge now, so you can't blame those who happen to be elected to congress.
 
-It is hard to know in your heart that something is right, and to be surrounded by people who don't get it.  It is understandable, in that situation, to be angry and frustrated.  But, this is an aspect of the human condition for which we can offer no remedy.  We can't create a society where this never happens, where every individual is always content with the decisions made by the group.  
+It is hard to know in your heart that something is right, and to be surrounded by people who don't get it.  It is understandable, in that situation, to be angry and frustrated.  But, this is an aspect of the human condition for which we can offer no remedy.  We can't create a society where this will never happen, where every individual is always content with the decisions made by the group.  
 
 What we can do, however, is provide a venue through which all that anger and frustration can be productively channelled.  We can guarantee that if you have an argument to make you will have a chance to be heard--as good a chance as anyone else.  Whether or not you are heard will depend, of course, on the persuasiveness of your argument.  No use complaining that people are listening when the problem is really that your argument is unconvincing!  But to the extent that, in the past, even good arguments would be quashed by forces seemingly beyond anyone's control, now every argument will at least get its day in court.  We can't offer anything better than equality in this regard, every individual will still only be one voice in 200 million.  But in the past one individual actually had less than one voice, so this will be an improvement.  
 

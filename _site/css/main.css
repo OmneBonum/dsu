@@ -51,6 +51,13 @@ body {
   text-align: center;
   padding: 20px;
 }
+#wrapper {
+    text-align: center;
+}
+
+#wrapper iframe {
+    display: inline-block;
+}
 h1 {
   font-size: 7vw;
   margin: top;
@@ -88,6 +95,14 @@ h6 {
   margin-left: 10%;
   margin-top: 1em;
   font-size: 1em;}
+h7 {
+    margin-bottom: 40px;
+    font-size: 2em;
+}
+  iframe{
+    border:4px solid black;
+    text-align: center;
+}
 a {
   color: #6397b5;
 }
