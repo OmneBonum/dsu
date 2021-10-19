@@ -9,7 +9,7 @@ If you've read the post "Why Go Big?" it may seem ironic that I now have to addr
 
 But the world is filled with different types of people.  And just as some might naturally think that acting at the Federal level, all at once, would be overly ambitious, others might go the other way.
 
-The DSUp project targets only Federal Congressional districts.  That is, the 435 seats that make up the United States House of Representatives.  So, naturally, for come, the question arises, "Why stop there?  What about lawmaking at all the other levels of government?  What about the Senate?"
+The DSUp project targets only Federal Congressional districts.  That is, the 435 seats that make up the United States House of Representatives.  So, naturally, for some, the question arises, "Why stop there?  What about lawmaking at all the other levels of government?  What about the Senate?"
 
 I've touched on the issue of starting out with lower levels of government (municipal, county, state and what not) and why that is unwise.  But what about the Senate? How can we revolutionize the way the House operates, and leave the Senate untouched?
 

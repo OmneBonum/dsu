@@ -11,17 +11,17 @@ There are some good reasons for this.
 
 Have you ever been in a group of 300 people who's needs are being served by only one person?  At that scale, a lot of ill effects accumulate.  The point person (in our system, we call them a delegate), can't really serve the needs of everyone all at once.  
 
-What if this person were, say, a doctor rather than a delegate. We would say, "Well, since not everyone gets sick at the same time--usually--on any given day, there won't be more medical needs than our medical doctor can meet."
+What if this person were, say, a doctor rather than a delegate? We would say, "Well, since not everyone gets sick at the same time--usually--on any given day, there won't be more medical needs than our medical doctor can meet."
 
 This is generally true--except when it isn't, such as in the case of a pandemic (not that there's any chance of that ever happening).  
 
 But still, if you get the numbers wrong, if you misjudge the extent of the need, if the need suddenly increases, one person serving 300 can be overwhelmed.  
 
-There's also a dampening effect that needs to be acknowledged.  People try to weigh what they need against the energy expended to get it.  If one person is serving 300, those being served will almost always have to wait in line in order to get service.  This may lead them to reconsider whether they really need to ask for help right now, given everything else going on in their lives, or, indeed, at all.  In the case of medical care, this could lead, sadly, to preventable disease and death.  
+There's also a dampening effect that needs to be acknowledged.  People try to weigh what they need against the energy expended to get it.  If one person is serving 300, those being served will almost always have to wait in line in order to get service.  This may lead them to reconsider whether they really need to ask for help, given everything else going on in their lives, or, indeed, at all.  In the case of medical care, this could lead, sadly, to preventable disease and death.  
 
 Also, when a 'servant' (and our delegate here is a kind of 'public servant') is overwhelmed by the number of people that need to be served, a class system typically emerges--those with greater access, whether due to personal relationships, power, or money--will tend to get better access.  
 
-By the way, roughly speaking, there really is one doctor for every 300 people in the United States.  
+By the way, roughly speaking, there really is one doctor for every 300 people in the United States!    
 
 But training doctors is a long, expensive process. Compensating doctors once they start practicing, again, quite expensive.  So, it is worth pointing out that first tier delegates are absolutely free!  And they are easy to 'make--' any competent adult can learn to do it within a very short period of time. Certainly, some people will be better at it than others, that's to be expected.  But the pool of candidates is still very, very large.
 
@@ -29,7 +29,7 @@ So, since we have access to such a large pool of potential delegates, since ther
 
 If our goal is to make sure that everyone gets served, that no one gets lost in the sauce, that louder voices don't drown out softer voice for no other reason than that they are louder, then that greatly restricts our group size.
 
-Experience shows that when a group of people gets together to do something, groups of larger than twenty are less effective.  Dominant personalities move to the front, others stand back and watch.  We must remember also that a first-tier delegate is a volunteer.  We can't just pile a huge workload on top of them.  They will likely have many responsibilities before they take on the position.  
+Experience shows that when a group of people gets together to do something, groups of larger than twenty are less effective.  Dominant personalities move to the front, others stand back and watch.  We must remember also that a first-tier delegate is a volunteer.  We can't just pile a huge workload on top of them.  They will likely have many responsibilities on their plate even before they take on the position.  
 
 So, a group size of less than twenty would be ideal. But what, exactly, would be the best number?
 
@@ -39,19 +39,22 @@ Let's remember that we are taking a leap into the unknown here.  No one can say 
 
 Also, keep in mind, we are just trying to get your DSUL up and running.  This is why we speak of the rules and specifications we use by default as 'scaffolding.'  The scaffolding is not the final building, it is the structure that facilitates the creation of whatever building you have in mind.  Once your DSUL achieves autonomy, a democratic process of self-regulation will be in place.  The members can vote to change the internal workings of the DSUL in any way they choose.  
 
-This does mean that, in any given district, given full participation, there might be about 50,000 first-tier delegates! That's about 10 percent of eligible voters.  
+This does mean that, in any given district, given full participation, there might be about 15,000 first-tier delegates! That's about 10 percent of eligible voters.  
 
-It is easier to grok the whole thing if we start by organizing your district's direct legislature from the top down, which is the wrong way to do it, but easier to imagine.  
+It is easier to grasp the whole idea if we start by organizing your district's direct legislature from the top down.  This is the wrong way to do it, but it's easier to imagine, so lets take some time to look at it.  
 
-Imagine your representative in congress decides to set up a system of sub-districts.  She/he divides your district into ten equal parts and and assigns people to represent each one.  Each sub-district now has about 70,000 people living in it, about 50,000 of which are eligible voters.  At our nations founding, each congressional district had about 30,000 people in it, so this system is a vast improvement!  Each of the representatives could set up a kind of a sub-district office, and if you lived in the sub-district, you could knock on the office door and try to bend your sub-representatives ear.  
+Imagine your representative in congress decides to set up a system of sub-districts.  She/he divides your district into ten equal parts and and assigns people to represent each one.  Each sub-district now has about 70,000 people living in it, about 50,000 of which are eligible voters.  At our nations founding, each congressional district had about 30,000 people in it, so this system is a vast improvement on that score.
 
-But 50,000 people is still a lot of people.  It might work well, as a practical matter, if the the sub-representative took a cue from the boss and did the same thing in her/his sub-district--divide it into ten equally-populated geographic units, and appoint sub-sub-representatives to each one! Each of them would also have a sub-sub-district office.  
+So, that's kind of cool.  Everyone who in a certain area has a 'sub-representative' that is focussed on their particular wants and needs. Each of
+these sub- representatives could set up a kind of a sub-district office, and if you lived in the sub-district, you could knock on the office door and try to bend their ear.  
+
+But 50,000 people is still a lot of people.  It might work better, as a practical matter, if the the sub-representative took a cue from the boss and did the same thing in her/his sub-district--divide it into ten equally-populated geographic units, and appoint sub-sub-representatives to each one! Each of them would also have a sub-sub-district office.  
 
 Now we have only about 5,000 voters to serve in each district.  If I am one of those 5,000, I can go to the sub-sub-district office and talk to the sub-sub-representative who will then, hopefully, talk to the sub-representative who will then, hopefully, talk to the representative about whatever issue or problem I present.  
 
 We hasten to point out that even the system we are playing around with in this example (a system we do not advocate) also has to grapple with the unavoidable inevitability of a tiered system.  There is simply no way to fit 500,000 people in a single place so that they can all communicate directly with their congressional representative.  (Actually, the largest stadium in the world holds about 500,000 people.  It's in North Korea.  We could all meet there!)
 
-But this process of passing on feedback until it reaches your representative isn't necessarily a bad thing.  Government does not specialize in solving one individual problem for one individual alone.  It specializes in solving a lot of problems all at once.  A tiered system of passing on feedback allows for a representative to hear that they same type of problem is cropping up again and again. The representative is also in a position to get the larger view.  Whereas someone bringing a complaint might not know the solution, the representative and her/his staff are in a better position to see it.  They might even be able to see that two or more seemingly different types of problems can be addressed with a shared solution.  
+But this process of passing on feedback until it reaches your representative isn't necessarily a bad thing.  Self-government does not specialize in solving one individual problem for one individual alone.  It specializes in solving a lot of problems all at once.  A tiered system of passing on feedback allows for a representative to hear that the same type of problem is cropping up again and again. The representative is also in a position to get the larger view.  Whereas someone bringing a complaint might not know the solution, the representative and her/his staff are in a better position to see it.  They might even be able to see that two or more seemingly different types of problems can be addressed with a shared solution.  
 
 Let's be careful, though, because, again, we are not advocating this top-down organization for your direct legislature, we are just taking a look at it to see what we can learn.  
 
@@ -63,7 +66,7 @@ Now we are talking!  500 is enough people to fit in a single room--an auditorium
 
 Which brings up a good point.  We don't just want those 500 people to have access to a glorified complaint box.  We want them to be able to make decisions.  They need to be able to engage in discussion and deliberation, bounce ideas off each other, etc.  And the House needs to do the same thing, so given its size, it divides itself up into committees and sub-committees, in order to distribute the work and, at least in theory, make decision-making more efficient.  
 
-So, if we were to do the same--divide up our 500 into committees and sub-comittees--we would dived our 500 into ten groups of 50, and then, each group of fifty would become a sub-committee of five.  
+So, if we were to do the same--divide up our 500 into committees and sub-comittees--we would divide our 500 into ten groups of 50, and then, each group of fifty would become a sub-committee of five.  
 
 Five is a pretty small number.  We could make larger sub-committees.  But, we wouldn't want to make them too large.  We might want to put a maximum cap of about 20 people in any given subcommittee.
 
@@ -81,16 +84,16 @@ Recall the top-down example from above. After two tiers of representation, we ha
 
 Also, we like to work within the confines of reality and without imposing any ideology.  Ask yourself, do you really get along all that well with the people who live immediately around you?  Do you really want to be in touch with them on a regular basis?  Are they all people you'd be happy to discuss issues of national importance with?  
 
-This is the problem that arises when you try to assign people to groups for the purposes of direct legislation.  What do you do if they aren't happy with those groups?  What if some of the people are so obnoxious and offensive, many others--perhaps the more reasonable and level-headed ones--opt out. What if there are several Jews in your group--and several Neo-Nazis!
+This is the problem that arises when you try to assign people to groups for the purposes of direct legislation.  What do you do if they aren't happy with those groups?  What if some of the people are so obnoxious and offensive, many others--perhaps the more reasonable and level-headed ones--opt out.
 
-Obviously, a group have to be formed with the consent of every member in that group. For participation to be rewarding and productive, people have to belong to groups filled with people they get along with and like to work with--to the extent that is humanly possible.  
+Obviously, a group has to be formed with the consent of every member in that group. For participation to be rewarding and productive, people have to belong to groups filled with people they get along with and like to work with.  
 
 Also, the top-down approach disregards whether or not a particular group of citizens living in a particular geographic region are ready, willing and able to participate.  
 
 This is why we must start with base groups that are self-organized according to affinity. If this sounds odd to you, we feel that it is because there is an ideology floating around out there that the world would be a better place if everyone learned to get along, and that by some very strange extension of that ideology, it is okay to force people together, even if they hate each other, into forums where they have to learn to get along with each other.  
 
-The business of self-governance must be able to function even in a society where people don't get along with each other, even when they can't be in the same room with each other.  The business of self-government is tedious enough as it is, without imposing upon people the emotional shocks that some from constant face-to-face confrontation.  
+The business of self-governance must be able to function even in a society where people don't get along with each other, even when they can't be in the same room with each other.  The business of self-government is tedious enough as it is, without imposing upon people the emotional shocks that come from constant face-to-face confrontation.  
 
-For these reasons, we must start with self-organized groups of people who are ready, willing and enable to participate, electing delegates to the first tier.  Even then, that level of delegates must self-organize itself into groups that can work together to serve the needs of their base.  So, affinity--not diversity--should be their organizing principle. At the second tier of delegation, the same should (probably) be the case.
+For these reasons, we must start with self-organized groups of people who are ready, willing and able to participate, electing delegates to the first tier.  Even then, that level of delegates must self-organize itself into groups that can work together to serve the needs of their base.  So, affinity--not diversity--should be their organizing principle. At the second tier of delegation, the same should (probably) be the case.
 
 Of course, by the third tier of delegation,

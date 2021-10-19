@@ -120,7 +120,7 @@ Any fans of the TV show Gilmore Girls?  One of the recurring segments in that pr
 
 Now, nothing about DSUp will prevent a town from having such a meeting.  But notice how it is not the fundamental unit we advocate, and, in fact, at no point in the process of participating in your DSUL at any level will you be subjected to anything resembling this kind of torture.  
 
-We call it torture because, well, it is.  You sit there quietly in your folding chair while someone with a license to ramble goes on and on about something you don't know or care about. Usually, you're only there for one reason, one issue you care about,  and you're just waiting for your chance to talk about it or vote on it.  Worse yet, it might be one of those meetings were a long string of people get to walk up to a microphone and advocate for whatever cause has brought them there.  
+We call it torture because, well, it is.  You sit there quietly in your folding chair while someone with a license to ramble goes on and on about something you don't know or care about. Usually, you're only there for one reason, one issue you care about, and you're just waiting for your chance to talk about it or vote on it.  Worse yet, it might be one of those meetings were a long string of people get to walk up to a microphone and advocate for whatever cause has brought them there.  
 
 This would be the town or city council meeting that is open to the public.  Very few people attend these meetings regularly.  Mostly its people showing up for the first time because there is something they have a particular beef about.  And while an articulate advocate might appear and give a rousing speech to councilpersons arrayed before them, often as not it is just a nut-job on a tirade.  If you attend, you just have to sit there and take it while pieces of your soul are chipped off and fall to the floor.  
 
@@ -140,7 +140,7 @@ There are a couple of words you don't hear every day.
 
 Sortition actually has its roots in Athenian democracy. Every citizen was eligible to participate in a forum where votes were taken on various issues--a kind of direct democracy. But there were too many citizens to fit in the forum on any given day--the perennial problem of a true direct democracy. Ideally, though, every citizen should have an equal chance of winding up in the forum and voting on any given day it was in session.
 
-To 'sort out' those who would participate, a long rope was walked through the marketplace and people on one side of it would be ushered into the meeting place to participate in the voting.  Of course, sometime people didn't want to go, so they ducked under the rope and ran off.  To remedy this problem, the rope was coated with a red powder--so if you got red on your tunic, you couldn't escape your civic duty.  This is the origin of the red velvet ropes we still use today at special events.
+To 'sort out' those who would participate, a long rope was walked through the marketplace and people on one side of it would be ushered into the meeting place to participate in the voting.  Of course, sometimes people didn't want to go, so they ducked under the rope and ran off.  To remedy this problem, the rope was coated with a red powder--so if you got red on your tunic, you couldn't escape your civic duty.  This is the origin of the red velvet ropes we still use today at special events.
 
 (At least that's our story and we're sticking to it.)
 
@@ -154,9 +154,9 @@ There is a modern phenomenon we've heard about that also uses sortition.  A grou
 
 Surprisingly, if the group selected is truly random, and the group size is sufficiently large--and 'sufficiently large' is probably smaller than you think--the final decision made by this sample of the population will most often accurately reflect the decision that would be made by the entire population if absolutely everyone participated in the same process.
 
-We like this device too. It's a better version of the sub-committee system that congress uses.  Many issues are mulled over by a small fraction of the congress which then reports their recommendations to the larger body. Some kind of division of labor is always going to be necessary when dealing with many complicated issues on a daily basis.  But, of course, their system of assigning members to those sub-committees is not random.  Assignments are deeply political and therfor bias is at play.  There is no great probability that the decision reached by a sub-committee would reflect the decision that would be reached by the entire congress if they were to participate in the same process.  
+We like this device too. It's a better version of the sub-committee system that congress uses.  Many issues are mulled over by a small fraction of the congress which then reports their recommendations to the larger body. Some kind of division of labor is always going to be necessary when dealing with many complicated issues on a daily basis.  But, of course, their system of assigning members to those sub-committees is not random.  Assignments are deeply political and therefore bias is at play.  There is no great probability that the decision reached by a sub-committee would reflect the decision that would be reached by the entire congress if they were to participate in the same process.  
 
-But we will recommend sortition as a good way for your DSUL to create issue-based sub-comittees that are truly random, and therefore truly representative.
+But we will recommend sortition as a good way for your DSUL to create issue-based sub-committees that are truly random, and therefore truly representative.
 
 Let us now ask, if sortition is so great, why isn't the DSUp Project using it as an organizing principle.  We could ask people to sign up to serve in one of a number of working groups, each focused on some specific issue, and then randomly choose people to join each group.  We could then engage in the process, as described above, of reaching a decision, or signing off on a specific piece of legislation.  What's wrong with that?
 
@@ -164,19 +164,19 @@ A couple of things.  No matter how confident we are that the final decision of t
 
 Worse, if I am very passionate about the issue, why was I, essentially, barred from involvement because of some 'random' process of selection?
 
-This is why we need the DSUL. The forum that decides whether or not such a system of issue-focused, citizen-based committees should exist, and what form it should take, that forum must be all-inclusive, and decisions must be reached through an open and democratic process.  Who are we, here at the DSUp Project, to get out a long rope and start corralling people into groups and telling them what issue they have to decide?  Its not our place. It's up to you guys.
+This is why we need the DSUL. The forum that decides whether or not such a system of issue-focused, citizen-based committees should exist, and what form it should take, that forum must be all-inclusive, and decisions must be reached through an open and democratic process.  Who are we, here at the DSUp Project, to get out a long rope and start herding people into groups and telling them what issue they have to decide?  Its not our place. It's up to you guys.
 
 ### Consensus democracy
 
 Consensus can mean different things to different people.  It can mean, "We keep discussing the issue until absolutely everyone agrees on what to do about it," or it can mean, "Not absolutely everyone, but the vast majority of people have to agree before we proceed," or some variation on that theme.
 
-Consensus if often put forth as a goal to aspire towards, an ideal to be realized.  We here at the DSUp Project do not share this goal, do not embrace this ideal.
+Consensus if often put forth as a goal to aspire towards, an ideal to be realized.  We here at the DSUp Project do not share this goal, and we do not embrace this ideal.
 
 Have you ever participated in a process where the goal of consensus was imposed on a diverse group of people who had to make a decision?  It is a tedious, unsatisfying experience.  It isn't a process of convincing the minority of the value of the argument being made by the majority.  It's process of wearing the minority down to a shiny nub, until they lose the will to fight and just say, "Whatever, okay, yes." Its a process that promotes self-righteous bullying and quashes individuality.  
 
-That said, any group at any tier in your DSUL could decide "We aren't going to vote on anything unless every single one of us agrees." We can't stop you from doing that, and we wouldn't want to.  But we are not going to recommend it as an aspirational goal.
+That said, any group at any tier in your DSUL could decide "We aren't going to vote on anything unless every single one of us agrees." We can't stop you from doing that, and we wouldn't want to.  But we are not going to recommend it as an aspirational goal, either.
 
-A variation on this would be to decide, say, that your DSUL will vote to enact no law unless 60% of the membership approves.  Or 80% or 90% or what have you.  The Senate often uses a rule like this in some cases (the so-called supermajority).  Again, if that's what you want to do in your group, go right ahead.  
+A variation on this would be to decide, say, that your DSUL will vote to enact no law unless 60% of the membership approves.  Or 80% or 90% or what have you.  The US Senate often uses a rule like this in some cases (the so-called supermajority).  Again, if that's what you want to do in your group, go right ahead.  
 
 But the problem with a supermajority is, while it might keep people honest most of the time, it has to be voted in by a simple majority, and the rule can be voted out by a simple majority. The same is true of consensus.  The goal of striving for consensus has to be shared by a simple majority before the process even gets started.  As soon as a simple majority changes its mind on that goal, it disappears.
 
@@ -186,7 +186,7 @@ For this reason, the DSUp Project assumes that all votes will be decided by a si
 
 The most notorious example of an attempt at a leaderless movement was Occupy Wall Street.  To our knowledge, that movement accomplished absolutely nothing.
 
-To be fair, their leeriness when it came to leadership was based on some truths.  Leaders often disappoint.  The type of person who says, "Oo, pick me!  I'll be your leader!" isn't always the best kind of person.  There is, of course, that truism about power corrupting.  
+To be fair, their leeriness when it came to leadership was based on some truths.  Leaders often disappoint.  The type of person who says, "Oo, pick me!  I'll be your leader!" isn't always the kind of person you actually want for the job.  There is, of course, that truism about power corrupting.  
 
 But the problem goes a bit deeper than that. The real problem with leadership is the followers.  The fact is, they only have a vague idea of the realities their leader faces when trying, even in good conscience to champion their cause.
 
@@ -202,4 +202,4 @@ All of these dynamics will serve to dilute some of the more unseemly aspects of 
 
 ### Opinion Polling
 
-A direct legislature is not the same as opinion polling. 
+A direct legislature is not the same as opinion polling.
