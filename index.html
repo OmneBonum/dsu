@@ -1,10 +1,9 @@
 ---
-layout: default
+layout: default-minus-footer
 ---
-
 <p>
 <div class="center-align"><img src="images/monkey.jpg" alt="Chimp with hand on chin as if
-   thinking" style="width:150px"></div>
+   thinking" style="width:150px; padding-top:15px"></div>
 <h2>Democracy Straight-Up!</h2>
 
 <h6>This is the future home of The Democracy Straight-Up Project. <p>
@@ -32,11 +31,11 @@ In the meantime, I'll be putting up draft versions of documents that will help
   <div class="hero-content">
     <h1 id="stroke">Infinite Monkeys</h1>
     <ul class="social-list">
-      <!--{% include social.html %}-->
-    <!--</ul>
-  </div><!--end hero-content-->
-<!--</div><!--end full-hero and hero-home-->
-<!--<div class="home-callout">
+      {% include social.html %}
+    </ul>
+  </div>end hero-content
+</div>end full-hero and hero-home
+<div class="home-callout">
   <h1 class="callout-title">A Moderated Discussion of Fundamental Truths</h1>
   <div class="callout-copy">
     <p>
@@ -50,9 +49,9 @@ Getting to the bottom of:
     </p>
     <h5>Fear Not</h5>
 
-  </div><!--end callout-copy-->
-<!--</div><!--end home-callout-->
-<!--<div class="home-section">
+  </div>end callout-copy
+</div>end home-callout
+<div class="home-section">
   <h4>Most recent post</h4>
   <div class="blog-posts">
     <header class="post-header">
@@ -62,18 +61,18 @@ Getting to the bottom of:
       </h2>
       <div class="post-byline">
         <img src="{{ site.posts.first.gravatar }}">
-        <!--<a href="{{ site.posts.first.authorTwitter }}"
-        class="social-link">Tw</a>-->
-        <!--by: {{ site.posts.first.author }}
+        <a href="{{ site.posts.first.authorTwitter }}"
+        class="social-link">Tw</a>
+        by: {{ site.posts.first.author }}
         <span> - {{ site.posts.first.date | date: '%B %d, %Y' }}</span>
-      </div> <!--end post-byline-->
-    <!--</header>
+      </div> end post-byline
+    </header>
     <div class="posts-image"
     style="background-image:url({{ site.posts.first.postHero }})"></div>
     {{ site.posts.first.excerpt }}
-    </div><!--end posts-image-->
-<!--</div><!--end blog-posts-->
-<!--<div class="home-section">
+    </div>end posts-image
+</div>end blog-posts
+<div class="home-section">
 <div class="bio-wrapper">
   <div class="bio-box">
     <div class="bio-copy">
@@ -81,12 +80,12 @@ Getting to the bottom of:
   </div>
   <div class="bio-box">
     <div class="bio-copy">
-    </div> <!--end bio-box-->
-  <!--</div>
+    </div>end bio-box
+  </div>
   <div class="bio-box">
     <div class="bio-copy">
       </div>
     </div>
   </div>
-</div> <!--close bio-wrapper-->
-<!--</div>
+</div>close bio-wrapper
+</div>-->
