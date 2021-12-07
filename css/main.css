@@ -368,14 +368,7 @@ h2 ~ p {
   transform: translate(-50%, 0);
   width: 0;
 }
-.hero-home {
-  background-image: url(/images/site_cheers.jpg);
-  background-position: center top;
-}
-.hero-home-explore {
-  background-image: url(/images/site_megaphone.jpg);
-  background-position: center top;
-}
+
 .hero-content {
   color: #fff;
   position: relative;
