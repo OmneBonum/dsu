@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holding My Breath
-postHero: /images/site_fountain_pen.jpg
+postHero: https://omnebonum.github.io/dsu/images/site_fountain_pen.jpg
 author: Don Morgan
 authorTwitter:
 gravatar: https://gravatar.com/avatar/89d99b653223e45618932ee01c7dfea7
