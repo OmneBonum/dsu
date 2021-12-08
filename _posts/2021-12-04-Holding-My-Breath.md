@@ -16,7 +16,7 @@ that need to be filled in.  But the rough outline of what I mean by Democracy
 Straight-Up is pretty much in place.  At some point, you just gotta jump in!
 
 
-<img class="pull-left" style="max-width: 400px; height: auto;" src="http://https://omnebonum.github.io/dsu/images/site_baby.jpg" alt="Baby underwater holding it's breath but looking happy">
+<img class="pull-left" style="max-width: 400px; height: auto;" src="https://omnebonum.github.io/dsu/images/site_baby.jpg" alt="Baby underwater holding it's breath but looking happy">
 
 This project started to take shape for me 30 years ago when I was in grad school. I was studying sociology.
 
