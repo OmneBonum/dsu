@@ -42,8 +42,8 @@ pathway to getting those needs met, whether they are good or bad for the rest of
 constituency.  
 
 Let's face it, when it comes to the question, "Is my candidate basically a puppet?" we
-mostly cross our fingers and hope it is not true, or, if it is, not completely true
-all the time, and maybe sometimes the needs of the not-so-well-monied constituents are being
+mostly cross our fingers and hope it is not true, or, if it is, not completely true,
+and maybe sometimes the needs of the not-so-well-monied constituents are being
 served, well enough? Pretty please?
 
 <span style="text-decoration:underline">Item 3</span>: Campaigns are also tied up with political party politics.  If you choose to run for office,
