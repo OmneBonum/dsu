@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holding My Breath
-postHero: https://omnebonum.github.io/dsu/images/site_fountain_pen.jpg
+postHero: /images/site_fountain_pen.jpg
 author: Don Morgan
 authorTwitter:
 gravatar: https://gravatar.com/avatar/89d99b653223e45618932ee01c7dfea7
@@ -16,7 +16,7 @@ that need to be filled in.  But the rough outline of what I mean by Democracy
 Straight-Up is pretty much in place.  At some point, you just gotta jump in!
 
 
-<img class="pull-left" style="max-width: 400px; height: auto;" src="https://omnebonum.github.io/dsu/images/site_baby.jpg" alt="Baby underwater holding it's breath but looking happy">
+<img class="pull-left" style="max-width: 400px; height: auto;" src="/images/site_baby.jpg" alt="Baby underwater holding it's breath but looking happy">
 
 This project started to take shape for me 30 years ago when I was in grad school. I was studying sociology.
 
@@ -24,14 +24,14 @@ I had a great English teacher when I was an undergrad--I took three courses he t
 
 He wasn't wrong.
 
-Notwithstanding that, I entered sociology with good intentions: I felt like there was something wrong with society, and I wanted to fix it. It seemed that, with all our prosperity, and even with our long experience living in a democracy, Americans were still making ourselves miserable.    
+Notwithstanding that, I entered sociology with good intentions: I felt like there was something wrong with society, and I wanted to fix it. It seemed that, with all our prosperity, and even with our long experience living in a democracy, we Americans were still making ourselves miserable.    
 
 My focus on Direct Legislation grew out of my frustration with all of the social theory I was ingesting. I became
 suspicious of any effort to improve our democracy through ideological efforts.  That's
 a nice way to put it. What I would like to say is that our go-to technique for improving
 democracy in America is to make ourselves a great, big, really judgmental, ideological hammer and start pounding on people's thick skulls with it. Not that I don't have an ideology. I can get
 judgmental with the best of them. I'm a human being and like anyone else I have my political opinions.
-But after a while, the hammer gets heavy.  Really, really heavy.  
+But after a while, that hammer gets so heavy.  So very, very heavy.  
 
 So, I asked myself, if I wanted to improve democracy without changing anyone's political beliefs how would I do it?  
 
@@ -59,26 +59,27 @@ in touch with the voters in some vague, haphazard way, not employing opinion pol
 Just a direct link, as direct as possible, cut out all the messiness and uncertainty
 in the middle.  
 
-Direct Legislation, I realized, was what I had happened upon, although I am hardly the first one.
+Direct Legislation, I realized, was what I had happened upon (although, admittedly,  I am hardly the first to do so).
 
 But I soon realized that Direct Legislation needed something.  The
 idea of the 'unwashed masses' dictating public policy on a whim fills many people
 with trepidation.  I'm one of them.  
 
-So, I began to think of Direct Legislation as a right.  With any right comes a responsibility.
 How can we be assured that when people obtain the power of direct legislation, they will use
-it wisely?  Our representatives were supposed to be the 'wise' ones, but that system
-has clearly failed in that regard.  And if we can't sway the American people to embrace
+it wisely?  Our representatives were supposed to be the 'wise' ones, but the current system
+has clearly failed in that regard.  And if we cannot sway the American people to embrace
 a single ideology, if we can't motivate them to become responsible civic actors, what
 defense is there against mobocracy?  
 
-The answer is that with any right comes a responsibility.  Since there can't be a litmus
+So, I began to think of Direct Legislation as a right. And, as with any right, there comes attached to it a responsibility.  Since there can't be a litmus
 test of how well-informed you are before you vote on a bill, there had better be some
 other way to at least encourage careful thinking when it comes to enacting the law
-of the land.  As it turns out, there is. It naturally takes the form of a Meritocratic System of Delegation. Yes, it is a mouthful, and there's no point trying to explain it all here, when that is what this website is for!  But it is the missing piece, the other side of the coin, that makes Direct Legislation an integrated whole. It meets the
+of the land.  As it turns out, there is. It naturally takes the form of a Merit-Based System of Delegation. Yes, it is a mouthful, and there's no point trying to explain it all here, when that is what this website is for!  But it is the missing piece, the other side of the coin, that which makes Direct Legislation an integrated whole. It meets the
 minimum requirement of keeping every empowered voter connected to the legislative body of
 which they are a part, without putting any unwarranted, or ideologically driven, demands
 on the individual.  
 
 And there we have, in brief, Democracy Straight-Up: Direct Legislation combined with
-a Meritocratic System of Delegation. Hit the Explore button up above, and start learning more, if you like.  
+a Merit-Based System of Delegation. Hit the Explore button up above, and start learning more, if you like. Or not.  It's a free country.
+
+And it is about to get a lot freer.

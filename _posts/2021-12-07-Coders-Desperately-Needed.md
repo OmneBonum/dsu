@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Coders Desperately Needed
-postHero: https://omnebonum.github.io/dsu/images/site_fountain_pen.jpg
+postHero: /images/site_fountain_pen.jpg
 author: Don Morgan
 gravatar: https://gravatar.com/avatar/89d99b653223e45618932ee01c7dfea7
 postFooter:
@@ -23,7 +23,7 @@ one guy, in Ukraine who got his experience working for the military.  Eventually
 is going to pen a headline like, "Democracy Project Created by Ukrainian Ex-Military
 Contractor."  You know they will do that, you just know they will.  
 
-<img class="pull-left" style="max-width: 400px; height: auto;" src="https://omnebonum.github.io/dsu/images/site_talk_code_mug.jpg"
+<img class="pull-left" style="max-width: 400px; height: auto;" src="/images/site_talk_code_mug.jpg"
 alt="Steaming coffee mug with legend Talk Code to Me">
 
 I spent the day trying to change something called a favicon.  You don't need to know what

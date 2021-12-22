@@ -34,8 +34,8 @@ would be repealed, rescinded, revoked, gone!
 
 Now, that seems like a beautiful thing, and it is...but it does come at a price. If you get
 to have your way on something that you believe in along with the majority, it also means
-that an idea you vehemently abhor has its chance to be codified into law if a majority
-of American voters endorse it.
+that ideas you vehemently abhor have a chance to be codified into law if a majority
+of American voters give them the thumbs up.
 
 Yikes!
 
@@ -46,7 +46,7 @@ going to do something stupid, stop relying on some sneaky tactic to trick them o
 Get your arguments ready and do battle--rhetorically speaking.
 
 "Direct Legislation is a rising tide that lifts all boats."  Who said that?  It must have been
-someone very wise. 
+someone very wise.
 
 So, people, join the cause that is your cause no matter what your cause! Email me
 at OmneBonumEst+bl@gmail.com.
