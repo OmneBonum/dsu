@@ -3,7 +3,7 @@ layout: post
 title: Death to Campaigning!
 postHero: /images/site_fountain_pen.jpg
 author: Don Morgan
-authorTwitter: other_posts/*2020-06-08-title-of-post0.md
+authorTwitter: 
 gravatar: https://gravatar.com/avatar/89d99b653223e45618932ee01c7dfea7
 postFooter:
 ---

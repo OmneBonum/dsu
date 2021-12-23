@@ -63,6 +63,7 @@ iframe{
 }
 
 /* GLOBAL STYLES */
+
 html {
   box-shadow: 0 0 0 30px #000 inset;
   padding: 0 30px;
@@ -72,6 +73,11 @@ body {
   flex-direction: column;
   font-family: 'Open Sans', helvetica, arial, sans;
   min-height: 100vh;
+}
+.center {
+  display: block;
+  margin-left: -25vh;
+  margin-right: 10vh;
 }
 .content-container {
   display: flex;
