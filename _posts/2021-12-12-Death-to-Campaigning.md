@@ -25,9 +25,10 @@ Let's jot down a quick list. What are the dynamics that go into campaigning?
 
 <span style="text-decoration:underline">Item 1</span>: Back in the day, the founders might have imagined a gentleman farmer 'tossing
 his hat in the ring' and having just as much of a chance as anyone else of representing the other
-citizens of his district (or, at least, the other gentleman farmers of his district...).
-But we all know that ship has sailed.  In fact, no one's really sure that ship ever
-even existed.
+citizens of his district (or, at least, the other gentleman farmers of his district).
+But we all know that ship has sailed.  If that ship ever
+even existed. Long before you or I ever hear the name of a candidate, they have been
+vetted and groomed by political parties and big-money donors. Which makes sense because...
 
 <span style="text-decoration:underline">Item 2</span>: It costs a lot of money to run for congress---you need to bank at least a million dollars.
 And while that's not a lot of money in the scheme of things, it's still a lot of money for
@@ -38,7 +39,7 @@ So, there is the need to raise funds to run, which has lead to endless headaches
 a gnawing contradiction that undergirds the whole enterprise.  The candidate must pledge to
 objectively serve the needs of the constituents.  And yet, they may be entirely funded
 by a small subset of those constituents who have special needs and a glaringly obvious
-pathway to getting those needs met, whether they are good or bad for the rest of the
+pathway to getting those needs met--whether they are good or bad for the rest of the
 constituency.  
 
 Let's face it, when it comes to the question, "Is my candidate basically a puppet?" we
@@ -48,13 +49,11 @@ served, well enough? Pretty please?
 
 <span style="text-decoration:underline">Item 3</span>: Campaigns are also tied up with political party politics.  If you choose to run for office,
 and your politics don't fit neatly into one camp or the other (which is true for most
-Americans) then you either need to conform your views to the party (which may be controlled
-by money) in order to tap into the powerful campaign machinery at their disposal, or
-run as an independent, and take your chances. Which can be done, but wouldn't it be
-better if every candidate ran as an independent?  Isn't that more, I don't know, American?
+Americans) then you either need to conform your views to the party in order to tap into the powerful campaign machinery at their disposal, or
+run as an independent, and take your chances.
 
 <span style="text-decoration:underline">Item 4</span>: Then there are the dynamics inherent
-in getting all those ill-informed, distracted, apathetic voters to rally around you. Now, it would be great if a candidate, expressing themselves frankly and making reasoned arguments, attracted the sober consideration of all the
+in getting all those ill-informed, distracted, apathetic voters to rally around you. Just kidding (not kidding). Now, it would be great if a candidate, expressing themselves frankly and making reasoned arguments, attracted the sober consideration of all the
 denizens of a district, who then formulated an assessment as to whether or not to embrace
 said candidate.  
 
@@ -74,7 +73,7 @@ the luxury of being perfectly reasonable.
 If it were possible to get rid of campaigning altogether, that would be highly
 desirable.  Not so much for the people who have the power to control who does and doesn't
 run for office. Such people might be unenthusiastic about the Death of Campaigning.
-But for the rest of us, it would be pretty ideal.  Of course, we are not talking about <em>banning</em>
+But for the rest of us, it would be pretty great.  Of course, we are not talking about <em>banning</em>
  campaigns. We still have our freedoms which must be preserved.  It would have to be like this:
 you <em>could</em> campaign if you wanted to, but it wouldn't do you any good,
  and might even hurt your chances of getting elected, if you engaged in that sort of unseemly behavior.
