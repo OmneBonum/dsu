@@ -17,7 +17,7 @@ are more than a few of those, haunting the zeitgeist.
 Really, you'll have to imagine one.  I'm not going to give an example.  Any example
 I offer will make it seem like the Project is partisan, in some way, on that issue.
 For some issues, even bringing them up is partisan.  So you'll really need to settle on
-something in your own head to proceed. Focus--there is an issue. It has a legislative aspect.
+something in your own head to proceed. Focus---there is an issue. It has a legislative aspect.
 A majority of Americans approve of the legislation.  It's still not getting done.
 
 Can you see it?
@@ -28,7 +28,7 @@ alt="A group of protestors in NYC, one holds up a sign: I can't believe we're st
 So, here's the thing: after the Direct Revolution, that cause will no longer be
 stalled.  That legislation, which the majority of voters actually wants, will be passed
 and will become law. And don't forget, also, that legislation, which your cause wants to
-<em>remove</em> and which a majority of voters would also like to see go bye-bye--well,
+<em>remove</em> and which a majority of voters would also like to see go bye-bye---well,
 if you had DDL's all across America right now, it wouldn't even be an issue.  The law
 would be repealed, rescinded, revoked, gone!  
 
@@ -43,7 +43,7 @@ Can you see it?  Are you imagining it?  Is it scary?
 
 What can I say, that's they way it's gotta be.  If you really think the majority is
 going to do something stupid, stop relying on some sneaky tactic to trick them out of it.
-Get your arguments ready and do battle--rhetorically speaking.
+Get your arguments ready and do battle---rhetorically speaking.
 
 "Direct Legislation is a rising tide that lifts all boats."  Who said that?  It must have been
 someone very wise.
