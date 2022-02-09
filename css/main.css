@@ -113,6 +113,10 @@ h7 {
     margin-bottom: 40px;
     font-size: 2em;
 }
+h8 {
+    margin-top: 1em;
+    font-size: 1.5em;
+  }
 a {
   color: rgb(9, 36, 133);
   font: 17px Arial, sans-serif;
