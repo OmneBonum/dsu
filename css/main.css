@@ -578,7 +578,9 @@ h2 ~ p {
 .bio-copy {
   font-size: 1em;
 }
-
+.long-name {
+   margin: -60px 0 1em;
+ }
 /* GALLERY STYLES */
 .gallery-thumbs {
   height: 90vh;
