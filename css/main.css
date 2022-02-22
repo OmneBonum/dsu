@@ -1,5 +1,5 @@
 html, body, div, span, applet, object, iframe,
-h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+h1, h2, h3, h4, h5, h6, h7, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp,
 small, strike, strong, sub, sup, tt, var,
@@ -85,7 +85,7 @@ body {
   padding-top: 10vh;
   width: 100%;
 }
-h1,h2,h3,h4,h5,h6 {
+h1,h2,h3,h4,h5,h6,h7 {
   font-family: 'Raleway', helvetica, sans;
   font-weight: 100;
 }
@@ -117,6 +117,7 @@ h8 {
     margin-top: 1em;
     font-size: 1.5em;
   }
+
 a {
   color: rgb(9, 36, 133);
   font: 17px Arial, sans-serif;
@@ -554,6 +555,13 @@ h2 ~ p {
   width: 33%;
 }
 .bio-box h3 {
+  color: #fff;
+  font-size: 1.5em;
+  margin: -50px 0 1em;
+  text-align: center;
+  text-transform: uppercase;
+}
+.bio-box h9 {
   color: #fff;
   font-size: 1.5em;
   margin: -40px 0 1em;
